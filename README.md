@@ -1,6 +1,6 @@
 ### ¡Hola! mi nombre es Vivian 😃
 
-#### Programadora front-end / back-end. Soy colombiana, actualmente residente en España. Disfruto con el aprendizaje a diario, tengo buena disposición para el análisis y la resolución de problemas. Me encanta la programación y desarrollo de aplicaciones.
+#### Programadora front-end / back-end. Soy colombiana, actualmente residente en España. Disfruto del diario aprendizaje, tengo buena disposición para el análisis y la resolución de problemas. Me encanta la programación y desarrollo de aplicaciones.
 <hr>
 <div id="info-profile">
 <ul>
