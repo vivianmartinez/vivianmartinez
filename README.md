@@ -1,6 +1,14 @@
-### ¡Hola! mi nombre es Vivian 😃
 
-#### Programadora front-end / back-end. Soy colombiana, actualmente residente en España. Disfruto del diario aprendizaje, tengo buena disposición para el análisis y la resolución de problemas. Me encanta la programación y desarrollo de aplicaciones.
+<div align="center">
+    
+### ¡Hola! mi nombre es Vivian 😃
+    
+<img src="art/vivian-art.png" width="200">
+</div>
+<div align="justify">
+    
+#### Programadora Junior. Soy colombiana, actualmente residente en España. Disfruto del diario aprendizaje, tengo buena disposición para el análisis y la resolución de problemas. Me encanta la programación y desarrollo de aplicaciones. Me entusiasma trabajar con PHP y formarme en nuevas tecnologías.
+</div>
 <hr>
 <div id="info-profile">
 <ul>
@@ -10,7 +18,7 @@
         <li type=square><a href="https://suministroslasidero.com/">Suministros La Sidero</a></li>
     </ul>
 </li>
-<li type=square>📝 Actualmente me encuentro aprendiendo Laravel, NodeJS y Angular </li>
+<li type=square>📝 Actualmente me encuentro aprendiendo Laravel, NodeJS y Angular. Reforzando conocimientos.</li>
     <li type=square>📫 Contáctame <a href="mailto:martinezpvivi@gmail.com">martinezpvivi@gmail.com</a></li>
 </ul>
 </div>
