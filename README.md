@@ -27,7 +27,6 @@
 <div align="left">
 <img src="icons/icon-php.png" title="PHP" width="50">
 <img src="icons/icon-mysql.png" title="MYSQL" width="50">
-<img src="icons/icon-laravel.png" title="LARAVEL" width="50">
 <img src="icons/icon-html5.png" title="HTML5" width="50">
 <img src="icons/icon-css.png" title="CSS" width="50">
 <img src="icons/icon-js.png" title="JS" width="50">
