@@ -18,7 +18,7 @@
         <li type=square><a href="https://suministroslasidero.com/">Suministros La Sidero</a></li>
     </ul>
 </li>
-<li type=square>📝 Actualmente me encuentro aprendiendo Laravel, NodeJS y Angular. Reforzando conocimientos.</li>
+<li type=square>📝 Actualmente me encuentro aprendiendo Laravel, Symfony y Angular. Reforzando conocimientos.</li>
     <li type=square>📫 Contáctame <a href="mailto:martinezpvivi@gmail.com">martinezpvivi@gmail.com</a></li>
 </ul>
 </div>
