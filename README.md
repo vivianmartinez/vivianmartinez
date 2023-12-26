@@ -19,7 +19,7 @@ Me gusta hacer dibujos a lápiz ✏️ y adoro leer novelas románticas 📚.
             <li type=square><a href="https://suministroslasidero.com/">Suministros La Sidero</a></li>
         </ul>
     </li>
-    <li type=square>📝 Actualmente me encuentro aprendiendo Laravel, Symfony y Angular. Reforzando conocimientos.</li>
+    <li type=square>📝 Actualmente me interesa Laravel, Symfony y Angular.</li>
     <li type=square>📫 Contáctame <a href="mailto:martinezpvivi@gmail.com">martinezpvivi@gmail.com</a></li>
     <li type=square>🙋‍♀️ Encuéntrame en <a href="https://www.linkedin.com/in/vivian-mart%C3%ADnez-920803277/"><strong>Linkedin</strong></a></li>
 </ul>
