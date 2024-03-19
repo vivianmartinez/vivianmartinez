@@ -1,7 +1,7 @@
 
 <div align="center">
     
-### ¡Hola! mi nombre es Vivian 😃
+### ¡Hola! Mi nombre es Vivian 😃
     
 <img src="art/vivian-art.png" width="200">
 </div>
