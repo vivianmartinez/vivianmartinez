@@ -7,8 +7,8 @@
 </div>
 <div align="justify">
     
-Programadora Junior. Soy colombiana, actualmente residente en España. Disfruto del diario aprendizaje, tengo buena disposición para el análisis y la resolución de problemas. Me encanta la programación y desarrollo de aplicaciones. Me entusiasma trabajar con PHP y formarme en nuevas tecnologías.<br>
-Me gusta hacer dibujos a lápiz ✏️ y adoro leer novelas románticas 📚.
+Soy Vivian, Técnico en Análisis y Programación. Disfruto del diario aprendizaje y participar en proyectos que contribuyan a mi superación profesional. Con buena disposición para el análisis y la resolución de problemas. Me entusiasma muchísimo trabajar con PHP y formarme en nuevas tecnologías.<br>
+Dibujo a lápiz ✏️ y adoro leer novelas románticas 📚.
 </div>
 <hr>
 <div id="info-profile">
